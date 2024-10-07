@@ -1,7 +1,7 @@
 Each particle in gases carry kinetic energy, and this energy of each particle is directly related to temperature
 
 $P$ - [[Pressure]]
-$V$ - [[Volume]]
+$V$ - [[Volume]] (Always in liters or decimeters cubed)
 $T$ - [[Temperature]] (Always in Kelvin)
 $n$ - [[Moles]]
 $R$ - [[Gas Constant]]
