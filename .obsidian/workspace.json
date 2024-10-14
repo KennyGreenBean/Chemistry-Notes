@@ -13,26 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/Molarity.md",
+                "file": "Stoichiometry.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e42c9b9e9d8107cd",
+            "id": "e00d0dc03573a455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/Concentration.md",
+                "file": "Dictionary/Limiting Reagent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7de93e65ad344b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary/Moles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary/Concentration.md",
+                "file": "Stoichiometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary/Concentration.md",
+                "file": "Stoichiometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary/Concentration.md"
+                "file": "Stoichiometry.md"
               }
             }
           }
@@ -159,27 +170,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e42c9b9e9d8107cd",
+  "active": "bf1f6dea7ef2aa6d",
   "lastOpenFiles": [
     "Dictionary/Molarity.md",
-    "Dictionary/Concentration.md",
-    "Empirical and Molecular Formulas.md",
-    "Nomenclature.md",
+    "Dictionary/Limiting Reagent.md",
+    "Stoichiometry.md",
+    "Dictionary/Moles.md",
     "Gas Laws.md",
+    "Dictionary/States.md",
+    "Dictionary/Gases/Gas Constant.md",
+    "Dictionary/Gases/Pressure.md",
+    "Molar Concentration.md",
+    "Solubility Rules.md",
+    "Types of Chemical Reactions.md",
+    "Polyatomic Ions.md",
+    "Empirical and Molecular Formulas.md",
+    "Percent Composition.md",
+    "Nomenclature.md",
+    "Dictionary/Gases/STP (Standard Temperature and Pressure).md",
+    "Dictionary/Volume.md",
     "Dictionary/Acids and Bases.md",
+    "Reactivity Series.md",
+    "Dictionary/Concentration.md",
     "Dictionary/Gases/Temperature.md",
     "Dictionary/Gases/SATP (Standard Ambient Temperature and Pressure).md",
-    "Dictionary/Gases/Gas Constant.md",
-    "Dictionary/Moles.md",
-    "Percent Composition.md",
-    "Solubility Rules.md",
-    "Dictionary/Volume.md",
-    "Dictionary/States.md",
-    "Dictionary/Gases/Pressure.md",
-    "Dictionary/Gases/STP (Standard Temperature and Pressure).md",
-    "Types of Chemical Reactions.md",
-    "Reactivity Series.md",
-    "Polyatomic Ions.md",
     "README.md",
     "Images/Pasted image 20241006141115.png",
     "Images/Pasted image 20241006140808.png",
