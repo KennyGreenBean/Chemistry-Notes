@@ -4,46 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f5d097ba65cc367c",
+        "id": "8017efe3223b3207",
         "type": "tabs",
         "children": [
           {
-            "id": "bf1f6dea7ef2aa6d",
+            "id": "735c301bc0d42566",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stoichiometry.md",
+                "file": "Reactivity Series.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Reactivity Series"
             }
           },
           {
-            "id": "e00d0dc03573a455",
+            "id": "3f54e26ebe80608a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/Limiting Reagent.md",
+                "file": "Acids and Bases.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7de93e65ad344b4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/Moles.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Acids and Bases"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -78,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -86,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stoichiometry.md",
+                "file": "Types of Chemical Reactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Types of Chemical Reactions"
             }
           },
           {
@@ -126,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stoichiometry.md",
+                "file": "Types of Chemical Reactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Types of Chemical Reactions"
             }
           },
           {
@@ -140,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -149,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stoichiometry.md"
-              }
+                "file": "Types of Chemical Reactions.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Types of Chemical Reactions"
             }
           }
         ]
@@ -170,28 +177,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf1f6dea7ef2aa6d",
+  "active": "cad22041d18f7cd7",
   "lastOpenFiles": [
-    "Dictionary/Molarity.md",
-    "Dictionary/Limiting Reagent.md",
-    "Stoichiometry.md",
-    "Dictionary/Moles.md",
+    "Dictionary/Concentration.md",
+    "Types of Chemical Reactions.md",
+    "Acids and Bases.md",
+    "A.md",
+    "Solubility Rules.md",
+    "Reactivity Series.md",
+    "Polyatomic Ions.md",
+    "Percent Composition.md",
+    "Nomenclature.md",
     "Gas Laws.md",
+    "Empirical and Molecular Formulas.md",
+    "Ionic Compounds.md",
+    "Covalent Compounds.md",
+    "Stoichiometry.md",
+    "Dictionary/Limiting Reagent.md",
+    "Dictionary/Molarity.md",
+    "Dictionary/Moles.md",
     "Dictionary/States.md",
     "Dictionary/Gases/Gas Constant.md",
     "Dictionary/Gases/Pressure.md",
     "Molar Concentration.md",
-    "Solubility Rules.md",
-    "Types of Chemical Reactions.md",
-    "Polyatomic Ions.md",
-    "Empirical and Molecular Formulas.md",
-    "Percent Composition.md",
-    "Nomenclature.md",
     "Dictionary/Gases/STP (Standard Temperature and Pressure).md",
     "Dictionary/Volume.md",
-    "Dictionary/Acids and Bases.md",
-    "Reactivity Series.md",
-    "Dictionary/Concentration.md",
     "Dictionary/Gases/Temperature.md",
     "Dictionary/Gases/SATP (Standard Ambient Temperature and Pressure).md",
     "README.md",
@@ -200,8 +210,6 @@
     "Images",
     "Reactions",
     "Dictionary",
-    "Dictionary/Gases",
-    "oxyacid.md",
-    "Polyatomic.md"
+    "Dictionary/Gases"
   ]
 }

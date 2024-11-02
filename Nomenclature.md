@@ -33,6 +33,7 @@ If the charge of the polyatomic ion hydrogen variation is 0, then it becomes a c
 ## Anhydrous Acids
 Anhydrous = without water
 Name like any binary compound
+$HCl_{s}$ = Hydrogen Chloride
 ## Binary Acids
 
 "Hydro" - "ic" 

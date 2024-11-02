@@ -32,7 +32,8 @@ Molar mass of potassium chlorate  = 122.55 g/mol
 
 Limiting reagent is Potassium Chlorate (Only reactant)
 
-For every 2 moles of potassium chlorate, 3 moles oxygen is produced
+For every 2 moles of potassium chlorate, 3 moles oxygen is produced 
+(Determined from [[Molar Ratio]])
 
 [[Moles]] of Oxygen = $3.254mol * \frac{3}{2} = 4.896mol$
 

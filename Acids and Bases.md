@@ -4,3 +4,5 @@ A base is a substance that forms hydroxide ions ($OH^-$) in water
 
 The acidity of acids and bases are measured using the pH scale
 ![[Pasted image 20241006141115.png]]
+
+pH = inverse log $[Element]$
